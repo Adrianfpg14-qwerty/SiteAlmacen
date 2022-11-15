@@ -63,9 +63,11 @@ python3 manage.py runserver
 
 
 ## RUN FRONTEND
+```console
 cd frontend  
 npm i  
 ng serve  
+```
 
 
 ## URLs/RUTAS
