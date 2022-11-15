@@ -1,5 +1,5 @@
 # SITE ALMACEN
-Aplicación Web Básica para realizar registros en un almacén,
+Aplicación Web Básica para realizar registros en un almacén
 
 
 ## Técnologías implementadas
