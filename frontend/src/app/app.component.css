@@ -1,0 +1,25 @@
+main {
+  display: grid;
+  height: 99vh;
+  grid-template-rows: 10% 80% 10%;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+
+  grid-template-areas:
+    "header header header header "
+    "section section section section"
+    "footer footer footer footer";
+}
+
+header {
+  grid-area: header;
+  background-color: #8dc3d8;
+}
+
+section {
+  grid-area: section;
+  margin-top: 132px;
+}
+
+footer {
+  grid-area: footer;
+}
