@@ -70,14 +70,16 @@ ng serve
 
 ## URLs/RUTAS
 [Backend]  
-localhost:8000/personas  
-localhost:8000/multas  
-localhost:8000/vehiculos  
+localhost:8000/clientes  
+localhost:8000/ventas  
+localhost:8000/productos  
+localhost:8000/tipoProductos  
 
 [Frontend]  
-localhost:4200/personas  
-localhost:4200/multas  
-localhost:4200/vehiculos  
+localhost:4200/clientes  
+localhost:4200/ventas  
+localhost:4200/productos  
+localhost:4200/tipoProductos  
 
 
 ## CONSIDERACIONES
